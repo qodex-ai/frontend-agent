@@ -1,0 +1,23 @@
+[
+  {
+    "scenario_id": "TS-001",
+    "Test Scenario Description": "I need to find the pricing of Qodex AI automation service.",
+    "steps": [
+      "visit https://qodex.ai/",
+      "go to API documentation by hovering on product",
+      "scroll and find the pricing section and go to it",
+      "summarize the pricing details"
+    ]
+  },
+  {
+    "scenario_id": "TS-002",
+    "Test Scenario Description": "I should be able to login into my qodex account with correct email and password",
+    "steps": [
+      "visit app.qodex.ai",
+      "go to login page",
+      "fill in email field with amit@qodex.ai",
+      "fill in password with Test@123",
+      "sign in to the website"
+    ]
+  }
+]

@@ -28,7 +28,7 @@ else
     echo "Docker image '$IMAGE_NAME' already exists. Skipping build."
 fi
 
-VENV_DIR="test_scen_exec_venv"
+VENV_DIR="qodexai-virtual-env"
 
 # Check if the virtual environment directory exists
 if [[ -d "$VENV_DIR" ]]; then
@@ -39,7 +39,7 @@ else
     echo "Virtual environment created at '$VENV_DIR'"
 fi
 
-source test_scen_exec_venv/bin/activate
+source $VENV_DIR/bin/activate
 echo "activated a python3 virtual environment"
 echo ""
 

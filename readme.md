@@ -9,7 +9,9 @@ Open-Source AI-Powered QA Tool for Automated UI Testing and Navigation. Accelera
 - A valid Anthropic API key for AI-based validation
 
 ## Installation
-
+```bash
+cp .env.sample .env
+```
 Set your Anthropic API key as an environment variable in .env file.
 ANTHROPIC_API_KEY=<your_anthropic_api_key>
 

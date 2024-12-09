@@ -1,6 +1,8 @@
-# Test Scenario Executor
+# QodexAI frontend agent
 
-Open-Source AI-Powered QA Tool for Automated UI Testing and Navigation. Accelerate your quality assurance process with our AI-driven QA tool that automates UI testing and navigation using input files. Streamline your testing workflows, enhance software quality, and boost productivity with this easy-to-use open-source solution..
+Open-Source AI-Powered QA Tool for Automated UI Testing and Navigation. 
+
+Accelerate your quality assurance process with our AI-driven QA tool that automates UI testing and navigation using input files. Streamline your testing workflows, enhance software quality, and boost productivity with this easy-to-use open-source solution.
 
 ## Prerequisites
 
@@ -24,4 +26,6 @@ Run run.sh file
 ```
 
 ### Logging and Response
-- Writes the scenario details and validation results to `output` folder
+- Writes the scenario details and validation results to `output` folder along with the screenshot. Checkout sample output folder for a sample response.
+
+

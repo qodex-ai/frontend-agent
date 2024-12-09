@@ -26,6 +26,8 @@ Run run.sh file
 ```
 
 ### Logging and Response
-- Writes the scenario details and validation results to `output` folder along with the screenshot. Checkout sample output folder for a sample response.
-
+- Writes the scenario details and validation results to `output` folder along with the screenshot. Checkout sample output file for a sample response:
+  
+- https://github.com/qodex-ai/frontend-agent/blob/main/sample_output/2024-12-09_18-19-02/index.html
+<img width="1509" alt="image" src="https://github.com/user-attachments/assets/403297c9-89d9-4e26-a385-e803073d4d87">
 

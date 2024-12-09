@@ -18,15 +18,16 @@
       "fill in email field with frontend-agent@qodex.ai and password with Test@123",
       "sign in to the website"
     ]
-  },
-  {
-  "scenario_id": "TS-003",
-  "Test Scenario Description": "I should be able to login into my qodex account and create a collection and then rename it",
-  "steps": [
-    "visit app.qodex.ai",
-    "click on the + icon and then 'Add a collection' to create a collection",
-    "click on the three dot on the new collection to rename the collection to current datetimestamp"
-  ]
-}
-
+  }
+  // just comment this for faster run and generate output file.
+//   ,
+//   {
+//   "scenario_id": "TS-003",
+//   "Test Scenario Description": "I should be able to login into my qodex account and create a collection and then rename it",
+//   "steps": [
+//     "visit app.qodex.ai",
+//     "click on the + icon and then 'Add a collection' to create a collection",
+//     "click on the three dot on the new collection to rename the collection to current datetimestamp"
+//   ]
+// }
 ]
